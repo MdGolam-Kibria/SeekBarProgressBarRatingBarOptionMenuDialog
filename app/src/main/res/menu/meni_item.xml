@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item android:id="@+id/k" android:title="home" android:icon="@mipmap/ic_launcher_round"></item>
+    <item android:id="@+id/i" android:title="section" android:icon="@mipmap/ic_launcher_round"></item>
+    <item android:id="@+id/b" android:title="about" android:icon="@mipmap/ic_launcher_round"></item>
+    <item android:id="@+id/r" android:title="hire" android:icon="@mipmap/ic_launcher_round"></item>
+    <item android:id="@+id/ii" android:title="skills" android:icon="@mipmap/ic_launcher_round"></item>
+    <item android:id="@+id/a" android:title="contact" android:icon="@mipmap/ic_launcher_round"></item>
+</group>
+</menu>
